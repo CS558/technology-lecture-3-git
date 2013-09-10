@@ -1,10 +1,10 @@
 CS558 Technology Lecture 3: git
 ===============================
-In the last two lectures we covered JavaScript and node.js, and we also went over the basics of how to publish a module on npm.  The goal of this lecture is to discuss how to collaborate on modules more efficiently and even more importantly to introduce git, which is a powerful distributed version control system.
+In the last two lectures we covered [JavaScript](https://github.com/CS558/technology-lecture-1-javascript) and [node.js](https://github.com/CS558/technology-lecture-2-node#cs558-technology-lecture-2-nodejs), and we also went over the basics of how to publish a module on npm.  The goal of this lecture is to discuss how to collaborate on modules efficiently using git, which is a powerful distributed version control system.
 
 Introduction to git
 ===================
-Git is a tool that lets you maintain multiple distributed versions of a collection of files (for example, the source code for a large program).  It was invented by Linus Torvalds, who is the creator of Linux and is used in the day-to-day maintence of the Linux kernel.  Learning to use git is much easier than learning a new programming language or environment, but it does require a bit of patience to get started.
+git is a tool that lets you maintain multiple distributed versions of a collection of files (for example, the source code for a large program).  It was invented by Linus Torvalds, who is the creator of Linux and today it is used in the day-to-day maintence of the Linux kernel, as well as many other software projects.  Learning to use git is much easier than learning a new programming language or environment, but it does require a bit of patience to get started.
 
 ## Installing git
 Installing git is a bit different depending on what system you are using.  On Linux or Mac, the easiest way to do this is to install git using your package manager.  For example, on Debian/Ubuntu you could do:
